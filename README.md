@@ -1,5 +1,16 @@
 # Proposal: KOL Partnership for Qubic Marketing Campaign
 
+
+
+**Available Options:**<br>
+
+
+-Option 0: **No, I don’t want**<br>
+-Option 1: **Yes, approve the KOL Budget proposal. Payout 150.00 bn**<br>
+
+------------------------------------------------------------------------------------
+
+
 ## Objective:
 We wish to leverage the influence of a top-tier Key Opinion Leader (KOL) and supporting KOLs from the Nebula agency to enhance Qubic’s visibility and growth through consistent, high-impact marketing on X (Twitter) and YouTube over a three-month period.
 
