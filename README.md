@@ -44,7 +44,7 @@ In return, the KOLs will receive:
 
 From this allocation:
 - Only $50,000 worth of Qubic will be sold upon release, with a further $50,000 sold each month, with the $QUBIC vested.
-- Coins not utilized will be given to the ecosystem fund (will discuss with these guys to which is best) but this money must be used on expedited projects, i.e., projects that will be finished in 2-4 months so our ecosystem grows.
+- Coins not utilized will be given to the ecosystem fund (will discuss with Alber to which is best) but this money must be used on expedited projects, i.e., projects that will be finished in 2-4 months so our ecosystem grows.
 
 ## Expected ROI:
 This campaign aims to:
@@ -68,7 +68,7 @@ Our aim is to grow Qubic’s visibility and adoption to potentially align with p
 - Vesting ensures the KOL remains committed to Qubic’s long-term success.
 
 ### Community Safeguards:
-- Unused Qubic coins from the KOL CCF request will be given to the ecosystem fund (will discuss with these guys to which is best) but this money must be used on expedited projects, i.e., projects that will be finished in 2-4 months so our ecosystem grows.
+- Unused Qubic coins from the KOL CCF request will be given to the ecosystem fund (will discuss with Alber to which is best) but this money must be used on expedited projects, i.e., projects that will be finished in 2-4 months so our ecosystem grows.
 
 ## Addressing Concerns About Marketing vs. Development:
 
