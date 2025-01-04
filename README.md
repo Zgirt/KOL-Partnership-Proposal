@@ -39,7 +39,7 @@ In return, the KOLs will receive:
 - As the saying goes: "If you are good at something, never do it for free." However, the KOL, via Nebula, has agreed to a 100% vesting schedule for Qubic tokens, marking the first time they have not required 20% upfront payment, showcasing their commitment to Qubic’s success.
 
 ## Financial Details:
-- **Monthly Payment:** $50,000 USDT and $100,000 in $QUBIC (vested for two months).
+- **Monthly Payment:** $50,000 USDT and $100,000 in $QUBIC (vested for three months).
 - **Total Qubic Allocation:** 150 billion Qubic tokens over three months.
 
 From this allocation:
